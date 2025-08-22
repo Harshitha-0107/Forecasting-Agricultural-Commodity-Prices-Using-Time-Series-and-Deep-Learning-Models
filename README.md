@@ -14,7 +14,7 @@ This project focuses on forecasting the prices of agricultural commodities (spec
 - Monthly data (wheat.csv): includes PRICE, RAINFALL, and INFLATION from Jan 2001 to Dec 2024.
 - Daily data (wheatdaily.csv): includes PRICE from Jan 2014 to Sep 2025 (interpolated for missing dates).
 
-📈 Part A – SARIMAX Model (Monthly Data with Rainfall & Inflation)
+# 📈 Part A – SARIMAX Model (Monthly Data with Rainfall & Inflation)
 In this section, we use the SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous regressors) model to forecast monthly wheat prices. The model incorporates external factors like rainfall and inflation to improve forecast accuracy.
 
 # Key Features:
