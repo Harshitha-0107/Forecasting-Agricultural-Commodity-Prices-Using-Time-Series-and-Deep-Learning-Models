@@ -4,8 +4,11 @@ This project focuses on forecasting the prices of agricultural commodities (spec
 
 # 🔍 Objectives:
 Forecast monthly wheat prices using SARIMAX with exogenous factors (rainfall, inflation).
+
 Forecast monthly wheat prices using a Recurrent Neural Network (RNN) model with the same exogenous inputs.
+
 Forecast daily wheat prices using an RNN model without external inputs.
+
 Compare the models based on forecast accuracy and behavior over time.
 
 Forecasting Agricultural Commodity Prices Using Time Series and Deep Learning Models
