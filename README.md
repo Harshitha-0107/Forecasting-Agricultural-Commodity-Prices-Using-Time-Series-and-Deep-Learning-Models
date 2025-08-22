@@ -1,4 +1,4 @@
-## Forecasting Agricultural Commodity Prices Using Time Series and Deep Learning Models
+ ## Forecasting Agricultural Commodity Prices Using Time Series and Deep Learning Models
 
 This project focuses on forecasting the prices of agricultural commodities (specifically wheat) using both classical time series models and deep learning approaches. The aim is to explore how different modeling techniques perform under varying data resolutions and input features.
 
